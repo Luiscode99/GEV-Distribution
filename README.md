@@ -22,8 +22,7 @@ Das Ergebnis ist ein Modell, das die Wahrscheinlichkeit von extremen Marktereign
 
 Das ist eine wichtige Erkenntnis für jedes Risikomanagement, da es hilft, Kapitalpuffer und Absicherungsstrategien richtig zu dimensionieren.
 
-![Plot der GEV-Anpassung an DAX-Verluste](httpstps://i.imgur.com/your_image_placeholder.png)
-*(Hier könntest du einen Screenshot deines Plots hochladen und verlinken)*
+![Plot der GEV-Anpassung an DAX-Verluste](DAX-Extremverluste.png)
 
 ---
 
